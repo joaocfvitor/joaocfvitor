@@ -1,5 +1,6 @@
 <div>
-  <h1 align="center">Welcome to my profile! My name is <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-fernandes-da-silva-6301b9187/"><i>João Vitor Fernandes</i></a> ≧◉◡◉≦</h1>
+  <h1 align="center">Welcome to my profile! My name is <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-fernandes-da-silva-6301b9187/"><i>João Vitor Fernandes</i></a>
+   <h1 align="center"> ≧◉◡◉≦</h1>
   <p align="center">Pronouns: He/Him 🌻 </h2>
 </div>
 
