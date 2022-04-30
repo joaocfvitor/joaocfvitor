@@ -1,7 +1,14 @@
-### Hello, my name is João Vitor, welcome to my profile! 👋
+<div>
+  <h1 align="center">Welcome to my profile! My name is <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-fernandes-da-silva-6301b9187/"><i>João Vitor Fernandes</i></a> ≧◉◡◉≦</h1>
+  <p align="center">Pronouns: He/Him 🌻 </h2>
+</div>
 
-- 📫 Java Full Stack Jr. Developer in training by Generation Brazil. 
-- 😄 Pronouns: He/Him
+<div>
+  <p align="center">🎓 Java Full Stack Jr. Developer in training by <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> 
+  </a><br>
+</div>
+  
+##
 
 <div align="center">
   <a href="https://github.com/joaocfvitor">
