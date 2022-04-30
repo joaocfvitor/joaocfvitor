@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <p align="center">🎓 Java Full Stack Jr. Developer in training by <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> 
+  <p align="center">🎓 Java Full Stack Jr. Developer in training by <a href="https://brazil.generation.org/"><i>Generation Brazil</i></a> 
   </a><br>
 </div>
   
