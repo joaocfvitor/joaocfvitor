@@ -1,6 +1,7 @@
-### Olá, Eu sou o João Vitor, seja bem vindo ao meu perfil! 👋
-- 📫 Desenvolvedor Java Full Stack Jr. em formação pela Generation Brazil. 
-- 😄 Pronomes: Ele/Dele
+### Hello, my name is João Vitor, welcome to my profile! 👋
+
+- 📫 Java Full Stack Jr. Developer in training by Generation Brazil. 
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/joaocfvitor">
